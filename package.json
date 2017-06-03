@@ -36,7 +36,7 @@
     "peerDependencies": {
         "react":        ">=15.3.0",
         "react-native": ">=0.32.0"
-    }
+    },
     "devDependencies":  {
         "babel-eslint":        "6.1.2",
         "eslint":              "3.2.2",
